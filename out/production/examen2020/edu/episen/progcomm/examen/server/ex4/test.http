@@ -1,0 +1,8 @@
+POST http://localhost:63207/compte/credit
+Content-Type: application/json
+
+{
+  "id": 1,
+  "amount": 1500,
+  "purpose": "Conso"
+}
