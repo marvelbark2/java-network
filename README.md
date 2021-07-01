@@ -18,11 +18,3 @@ Clients basiques
 
 ## EX6
 Clients MultiThreadé Async
-
-## EX7
-### Probleme :
-1. Concurrence pour accèder au meme Objet
-2. Utilisation Multi technologies
-### Solution:
-1. Serveur Multithreadé capable de servir multi client
-2. Utilisation des middlewares
